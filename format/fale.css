@@ -1,0 +1,27 @@
+.manifesto {
+    text-align: center;
+    color: rgb(0, 204, 0);
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.txt {
+    text-align: center;
+    color: rgb(255, 204, 0);
+    font-size: 32px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.row {
+    text-align: center;
+}
+
+#rodape {
+    font-size: 10pt;
+}
+
+.row2>.column2 {
+    margin-right: 420px;
+    margin-left: 450px;
+    position: central;
+}

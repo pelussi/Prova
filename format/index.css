@@ -1,0 +1,32 @@
+h1 {
+    text-align:left;
+    color: rgb(73, 71, 71);
+    font-size: 36px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p{
+    text-align: justify;
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#icone{
+    background-image: url("imagens/topo.png");
+    background-repeat: no-repeat;
+    height: 80%;
+    width: 100%;
+}
+
+.row{
+    text-align: center;
+}
+
+#rodape{
+    font-size: 10pt;
+}
+
+.row2 > .column2 {
+    padding: 10px;
+  }

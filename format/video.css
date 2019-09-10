@@ -1,0 +1,27 @@
+#rodape{
+    font-size: 10pt;
+}
+
+h1 {
+    text-align:center;
+    color: #707070;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    text-align: justify;
+    color: black;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+
+.row{
+    text-align: center;
+}
+
+.row2 > .column2 {
+    margin-right: 420px;
+    margin-left: 450px;
+    position: central;
+  }
